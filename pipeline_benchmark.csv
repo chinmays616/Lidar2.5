@@ -1,0 +1,3 @@
+timestamp,lidar_load_ms,bev_creation_ms,elevation_terrain_ms,adaptive_resolution_ms,semantic_labels_ms,semantic_grid_ms,variable_grid_ms,raycast_occupancy_ms,traversability_ms,costmap_inflation_ms,astar_smoothing_ms,kinodynamic_ms
+2026-09-09 01:37:34,1.70,267.89,1034.98,261.50,110.75,463.70,441.41,270.41,500.87,2.96,614.31,9.27
+2026-09-09 02:10:23,4.17,247.97,1331.28,241.79,102.06,452.47,835.29,305.93,849.77,4.41,888.00,12.95
